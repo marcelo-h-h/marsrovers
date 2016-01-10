@@ -1,4 +1,4 @@
-# marsrovers
+# Mars Rovers - Teste Desenvolvedor Júnior
 Insturções para execução:
 1- Compilar o código
 2- Executar o programa (./nomedoprograma no terminal)
