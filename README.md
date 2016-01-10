@@ -15,6 +15,6 @@
 5. A cada dupla de linhas do passo 4, é exibida uma saída contendo a posição final e direção que o robô está voltado;
 6. Para finalizar o programa, o primeiro valor do passo 4 deve ser -1(x inicial = -1).
 
-###Demonstração de entradas e saídas
+###Demonstrações de entradas e saídas
 
 ![alt tag](http://i.imgur.com/SB1XDb7.png)
