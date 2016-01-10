@@ -1,5 +1,7 @@
 # Mars Rovers - Teste Desenvolvedor Júnior
-Insturções para execução:
+
+<p>Instruções para execução:</p>
+
 1- Compilar o código
 2- Executar o programa (./nomedoprograma no terminal)
 3- Digitar a primeira linha de entrada, contendo os limites do plano correspondete ao platô, x e y
