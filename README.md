@@ -8,4 +8,4 @@
 6. Para finalizar o programa, o primeiro valor do passo 4 deve ser -1(x inicial = -1)
 
 ###Demonstração de uso
-<center>![alt tag](http://i.imgur.com/SB1XDb7.png)</center>
+![alt tag](http://i.imgur.com/SB1XDb7.png)
