@@ -1,5 +1,5 @@
 # Mars Rovers - Teste Desenvolvedor Júnior
-<p>###Instruções para execução</p>
+###Instruções para execução
 1. Compilar o código utilizando gcc (Ex: "gcc rovers.c -o rovers")
 2. Executar o programa (Ex: "./rovers").
 3. Digitar a primeira linha de entrada contendo os limites do plano correspondete ao platô x e y.
