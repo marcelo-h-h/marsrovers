@@ -1,4 +1,8 @@
 # Mars Rovers - Teste Desenvolvedor Júnior
+###Recursos utilizados
+*Plataforma: Ubuntu 14.04
+*Compilador: gcc versão 4.8.4
+*Linguagem de programação: C
 ###Instruções para execução
 1. Compilar o código utilizando gcc (Ex: "gcc rovers.c -o rovers")
 2. Executar o programa (Ex: "./rovers").
