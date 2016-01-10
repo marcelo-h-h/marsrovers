@@ -1,4 +1,4 @@
-//Since rovers can only walk over the plateau, any movement that exceds the plateau is discarted
+//Since rovers can only walk over the plateau, any movement that exceeds the plateau is discarded
 
 #include <stdio.h>
 #include <stdlib.h>
