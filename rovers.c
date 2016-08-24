@@ -12,19 +12,19 @@ int main (void) {
 	char dir0; //rover facing direction
 	int count;
 
-	scanf("%d %d", &xmax, &ymax); //gets the upper-riht coordinates of the plateau
+	scanf("%d %d", &xmax, &ymax); //gets the upper-right coordinates of the plateau
 
 	scanf("%d", &x0); //gets the first x0 to check condition of the program to run
 	while(x0!=-1) { //the stop condition is that x0 is -1
 
 		scanf("%d %c", &y0, &dir0); //gets starting position and facing direction
 		
-		getchar(); 
+		getchar(); //cleans keyboard buffer
 		scanf("%[^\n]", move); //gets the movement string
 
 		for(count=0;move[count]!='\0';count++) {
 			switch(move[count]) { 
-				case 'R' : //In the case that the rover turns to the right
+				case 'R' : //In case rover turns to the right
 					switch(dir0) {
 						case 'N' :
 							dir0='E';
@@ -40,7 +40,7 @@ int main (void) {
 							break;
 					}
 					break;
-				case 'L' : //In the case that the rover turns to the left
+				case 'L' : //In case rover turns to the left
 					switch(dir0) {
 						case 'N' :
 							dir0='W';
@@ -56,7 +56,7 @@ int main (void) {
 							break;
 					}
 					break;
-				case 'M' : //In the case that the rover moves foward
+				case 'M' : //In case rover moves foward
 					switch(dir0) {
 						case 'N' :
 							if(y0+1<=ymax) y0++;
