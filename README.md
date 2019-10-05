@@ -1,12 +1,12 @@
 # Mars Rovers - Teste Desenvolvedor Júnior
 
-###Recursos utilizados
+### Recursos utilizados
 
 * Plataforma: Ubuntu 14.04
 * Compilador: gcc versão 4.8.4
 * Linguagem de programação: C
  
-###Instruções para execução
+### Instruções para execução
 
 1. Compilar o código utilizando gcc (Ex: "gcc rovers.c -o rovers").
 2. Executar o programa (Ex: "./rovers").
@@ -15,6 +15,6 @@
 5. A cada dupla de linhas do passo 4, é exibida uma saída contendo a posição final e direção que o robô está voltado;
 6. Para finalizar o programa, o primeiro valor do passo 4 deve ser -1(x inicial = -1).
 
-###Demonstrações de entradas e saídas
+### Demonstrações de entradas e saídas
 
 ![alt tag](http://i.imgur.com/SB1XDb7.png)
